@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98c9d39f-2ad7-44e5-87e4-5c8650cb8df4" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1cQ3mFdao4L8oQsYoFe3UVuKXuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EdMIPS" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EdMIPS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="-a quantres18_cfg -b 4 -j 0 --ac /efs/user/zwcai/code/EdMIPS/experiments/res18_w1234a234_cd0.00335/arch_checkpoint.pth.tar ~/data/imagenet/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EdMIPS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search.py" />
+      <option name="PARAMETERS" value="-a mixinception_w1234a234 -b 4 -j 0 --cd 0.00335 ~/data/imagenet/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.search" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c9d39f-2ad7-44e5-87e4-5c8650cb8df4" name="Default" comment="" />
+      <created>1587015033662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587015033662</updated>
+      <workItem from="1590447148693" duration="14450000" />
+      <workItem from="1590969902074" duration="2880000" />
+      <workItem from="1590988882699" duration="36084000" />
+      <workItem from="1592780757860" duration="595000" />
+      <workItem from="1592954938561" duration="560000" />
+      <workItem from="1592959493612" duration="214000" />
+      <workItem from="1592964184008" duration="13774000" />
+      <workItem from="1594313039948" duration="595000" />
+      <workItem from="1594317793913" duration="7110000" />
+      <workItem from="1595304424839" duration="4834000" />
+      <workItem from="1595313881517" duration="10222000" />
+      <workItem from="1595810895436" duration="223000" />
+      <workItem from="1595811725407" duration="1068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591576014350">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="489" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.977@0.23.1920.977" timestamp="1591576014350" />
+    <state x="715" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595811031772">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="715" y="264" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.973@0.23.1920.973" timestamp="1595811031772" />
+    <state x="576" y="132" key="#search" timestamp="1590448622978">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="576" y="132" key="#search/0.23.1920.977@0.23.1920.977" timestamp="1590448622978" />
+    <state width="1682" height="339" key="GridCell.Tab.0.bottom" timestamp="1592780700084">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700084" />
+    <state width="1682" height="339" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1591576853543" />
+    <state width="1682" height="339" key="GridCell.Tab.0.center" timestamp="1592780700083">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700083" />
+    <state width="1682" height="339" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1591576853541" />
+    <state width="1682" height="339" key="GridCell.Tab.0.left" timestamp="1592780700083">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700083" />
+    <state width="1682" height="339" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1591576853540" />
+    <state width="1682" height="339" key="GridCell.Tab.0.right" timestamp="1592780700083">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700083" />
+    <state width="1682" height="339" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1591576853542" />
+    <state width="1682" height="339" key="GridCell.Tab.1.bottom" timestamp="1592780700084">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700084" />
+    <state width="1682" height="339" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1591576853544" />
+    <state width="1682" height="339" key="GridCell.Tab.1.center" timestamp="1592780700084">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700084" />
+    <state width="1682" height="339" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1591576853544" />
+    <state width="1682" height="339" key="GridCell.Tab.1.left" timestamp="1592780700084">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700084" />
+    <state width="1682" height="339" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1591576853543" />
+    <state width="1682" height="339" key="GridCell.Tab.1.right" timestamp="1592780700084">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1682" height="339" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1592780700084" />
+    <state width="1682" height="339" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1591576853544" />
+    <state x="376" y="149" key="SettingsEditor" timestamp="1595809400549">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="376" y="160" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1591772212993" />
+    <state x="376" y="149" key="SettingsEditor/0.23.1920.973@0.23.1920.973" timestamp="1595809400549" />
+    <state x="376" y="150" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1595314674167" />
+    <state width="862" height="487" key="XDebugger.FullValuePopup" timestamp="1591576782199">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="862" height="487" key="XDebugger.FullValuePopup/0.23.1920.977@0.23.1920.977" timestamp="1591576782199" />
+    <state x="532" y="237" width="670" height="674" key="search.everywhere.popup" timestamp="1595809391457">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="532" y="256" width="670" height="732" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1591772198338" />
+    <state x="532" y="237" width="670" height="674" key="search.everywhere.popup/0.23.1920.973@0.23.1920.973" timestamp="1595809391457" />
+    <state x="532" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1595314664870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixresnet.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>180</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>230</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>265</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>272</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>347</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixresnet.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixresnet.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixresnet.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixresnet.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixgoogle.py</url>
+          <line>252</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixgoogle.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixgoogle.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixgoogle.py</url>
+          <line>221</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_resnet.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_resnet.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>253</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>310</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>321</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_googlenet.py</url>
+          <line>297</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_googlenet.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_resnet.py</url>
+          <line>240</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_googlenet.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixinception.py</url>
+          <line>425</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixinception.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixinception.py</url>
+          <line>334</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/mixinception.py</url>
+          <line>304</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>217</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_module.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_module.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/quant_module.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EdMIPS$main.coverage" NAME="main Coverage Results" MODIFIED="1591576028048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EdMIPS$search.coverage" NAME="search Coverage Results" MODIFIED="1591254180159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
